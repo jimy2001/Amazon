@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    }
+
+    
+.navbar {
+background-color: black;
+position: relative;
+height: 80px;
+
+}
+
+
+.fotoamazon {
+margin-left: 20px;
+width: 110px;
+height: 80px;
+}
+
+
+.div2 {
+    font-size: 22px;
+    color: aliceblue;
+    background-color: #282c3c;
+}
+
+
+.li1 {
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+
+
+.li1:hover {
+    color: aqua;
+}
+ 
+
+.treslinea {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+.treslinea:hover {
+    
+color: rgb(197, 228, 180);
+}
+
+
+
