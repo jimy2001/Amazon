@@ -4,51 +4,207 @@
     margin: 0;
     }
 
+
+
+
     
 .navbar {
 background-color: black;
 position: relative;
-height: 80px;
-
+height: 60px;
 }
 
 
 .fotoamazon {
 margin-left: 20px;
 width: 110px;
-height: 80px;
+height: 60px;
+}
+.fotoamazon:hover {
+    border: 1px solid white;
 }
 
 
+
 .div2 {
-    font-size: 22px;
+    position:relative;
+    height: 30px;
+    font-size: 18px;
     color: aliceblue;
     background-color: #282c3c;
 }
 
 
+
 .li1 {
+    margin-left: 20px;
     color: aliceblue;
-    text-decoration: none;
-    
+    text-decoration: none;  
 }
-
-
 .li1:hover {
-    color: aqua;
+    border: 1px solid white;  
 }
  
 
-.treslinea {
-    text-decoration: none;
-    color: aliceblue;
+
+.barra-1 {
+    margin-top: -55px;
+   position: absolute; 
+   margin-left: 320px;
+   width: 1070px;
+   height: 40px;
+   
+}
+.barra-1:hover {
+    border: 3px solid #f99a05;
 }
 
 
-.treslinea:hover {
+
+.todo2 {
+    position: absolute;
+    border-radius: 8px 0px 0px 8px ;
+    background-color: #dbdbdb;
+    margin-top: -56px;
+    text-align: center;
+    margin-left: 250px;
+    width: 70px;
+    height: 41px;
+}
+.todo2:hover {
+    border: 3px solid #f99a05 ; 
+}
+
+
+
+.location1 {
+    margin-top: 200px;
+    position: absolute;
+  margin-top: -90px;
+ width: 25px;
+ 
+}
+
+
+
+.locationn {
+    color: #dbdbdb;
+    margin-left: 145px;
+    margin-top: 50px;
+}
+.locationn:hover {
+    border: 1px solid white;
+}
+
+
+
+.parrafito {
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 170px;
+    color:#dbdbdb;
+}
+.parrafito:hover {
+    border: 1px solid white;
+}
+
+
+
+
+.bandera { 
+    margin-top: -100px;
+    margin-left:1430px ;
+}
+
+
+
+
+.banderaa {
     
-color: rgb(197, 228, 180);
+    width: 30px; 
 }
+.banderaa:hover {
+    border: 1px solid white;
+}
+
+
+
+
+.cuentas {
+    color: #dbdbdb;
+    position: absolute;
+    margin-left: 1500px;
+    margin-top: -40px;
+}
+.cuentas:hover {
+    border: 1px solid white ;
+}
+
+
+
+
+.pedidos {
+    color: #dbdbdb;
+    position: absolute;
+    margin-left: 1640px;
+    margin-top: -40px;
+}
+.pedidos:hover {
+    border: 1px solid white ;
+}
+
+
+
+
+.carro {
+    position: absolute;
+    margin-left: 1755px;
+    margin-top: -40px;
+    }
+    
+
+
+
+
+.carritobuy {
+    position: absolute;
+    width: 50px;  
+}
+.carritobuy:hover {
+    border: 1px solid white ;
+}
+
+
+
+
+.parrafocarro {
+    color: #dbdbdb;
+    position: absolute;
+    margin-left: 1810px;
+    margin-top: -20px;
+}
+.parrafocarro:hover {
+    border: 1px solid white ;
+}
+
+
+
+
+.fondo-amazon { 
+    position: relative;
+    width: 1500px;
+    height: 1000px;
+    background-image: linear-gradient(#8cdce4, #8cdce3, #a8e4ec, #cbedf3, #e1f3f5, #edf5f6, #f0f4f6, #eaeded);
+    margin-left: 180px;
+}
+
+
+
+.fondito {
+width: 1500px;
+}
+
+
 
 
 
